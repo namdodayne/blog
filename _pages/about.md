@@ -3,10 +3,6 @@ permalink: /about/
 title: "About"
 ---
 
-### Nam Võ
-
-Application Petester, Security Engineer | OSCP | Redteam
-
 As a Security person. I started my job at a business that specializes in providing information security assessment services. With my passion for IT, I am confident I will always develop and innovate every day
 
 I am a dynamic, creative thinker who always enjoys challenges. You can expect me asking 10x "why"
