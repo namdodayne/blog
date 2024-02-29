@@ -3,6 +3,16 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Nam Võ
+Application Petester, Security Engineer | OSCP | Redteam
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+As a Security person. I started my job at a business that specializes in providing information security assessment services. With my passion for IT, I am confident I will always develop and innovate every day
+
+I am a dynamic, creative thinker who always enjoys challenges. You can expect me asking 10x "why"
+
+Experience & skills:
+- Pentest: Black/Gray/Whitebox security assessment for many types of applications and infrastructure such as: WebApp, MobileApp, API and servers
+- Has extensive experience with diverse industry applications such as Banking, finance, entertainment, government.
+- I am proud of my ability to take notes and convey knowledge
+
+In the next 5 years, I aim for a management and team lead position, and at the same time on the path to becoming an expert.
